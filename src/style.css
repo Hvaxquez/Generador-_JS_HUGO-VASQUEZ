@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: white;
+}
+button {
+  display: block;
+  margin: 20px auto;
+  max-width: 180px;
+  text-decoration: none;
+  border-radius: 5px;
+  border: 0px;
+  padding: 20px 30px;
+  padding: 20px 30px;
+  background-color: transparent;
+  font-size: 15px;
+}
+#excuse {
+  text-align: center;
+}
+#theexcuse {
+  text-align: center;
+}
+.wrap {
+  text-align: center;
+  margin-top: 200px;
+}
